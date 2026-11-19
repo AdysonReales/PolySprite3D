@@ -1,0 +1,11 @@
+{
+  "name": "polysprite3d",
+  "displayName": "PolySprite3D",
+  "description": "Low-poly viewport and sprite baker",
+  "version": "0.7.0",
+  "author": { "name": "PolySprite3D contributors" },
+  "publisher": "polysprite3d",
+  "license": "MIT",
+  "categories": ["Scripts"],
+  "contributes": { "scripts": [{ "path": "./main.lua" }] }
+}
